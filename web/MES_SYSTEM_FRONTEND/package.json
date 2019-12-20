@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "crypto": "^1.0.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.13",
     "popper.js": "^1.14.3",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
